@@ -1,5 +1,9 @@
 # THE DAY, COUNTED — Wednesday 25 November 2026
 
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/135479sun-glitch/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/135479sun-glitch/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
 A one-image summary of 25 November 2026's world news, built for the
 make.fun `news-image-20261125` competition ("Sum up 25 November's world
 news in one image").
@@ -57,7 +61,6 @@ register grouped by region, red-bordered DATE CHECK, full source footer.
 ## How to run
 
 ```sh
-cd entry
 python3 main.py
 ```
 
@@ -73,3 +76,7 @@ reported 25 Nov — register only, flagged. The Webb "little red dot"
 paper was 24 Nov, press release 25 Nov — flagged. Canary Islands
 arrivals bulk 24 Nov — flagged. Guinea is phrased as the law adoption
 on 25 Nov (the $1bn figure was announced Nov 2025).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=j1mbjvhv&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
